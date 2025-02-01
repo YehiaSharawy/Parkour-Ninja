@@ -1,17 +1,21 @@
 # Parkour-Ninja 🥷
-The game is about a ninja that keeps on jumping on platforms and blocks to catch all coins which is counted every time he catches it. Our game contains 3 levels, and it gets more difficult when you pass each level.
+The game features a ninja who continuously jumps across platforms and blocks to collect coins, with each coin adding to the score. The game has three levels, each increasing in difficulty.
 
-The setting of the first level is designed to be above the clouds and skyscrapers, the second level places the ninja inside the city, while the last level is in space. As the ninja passes each level, the levels get more difficult.
+- Level 1 takes place above the clouds and skyscrapers.
+- Level 2 moves into the city.
+- Level 3 is set in space.
 
-The difficulty in each level gets harder by barrier blocks that defeats the player by moving faster, resetting them to checkpoints and some blocks move with their own speed and whenever you pass a level, the speed of block increases.
+As the ninja progresses, the challenges become more difficult. Moving barrier blocks can defeat the player, sending them back to checkpoints. Some blocks move at varying speeds, and with each level, their speed increases, making the gameplay more challenging.
 
 # How To Play:
-
-(W) key on your keyboard you will move forward on the z-axis and when you unpress the key you will stop at the place you moved at, by pressing the (D) key you move towards the right on the x-axis. 
-
-Until you unpress the key, you will keep moving right, by pressing the (A) key you will move left on the x-axis as well until you unpress it, if you press the (S) key you will go back on the z-axis. As known for jumping, you will have to press the (SPACE) key located down the middle of your keyboard.
-
-Gold Blocks are checkpoints for the player. Red Barriers are prohibited to touch.
+- **(W) Key** – Move forward along the Z-axis; release the key to stop.
+- **(S) Key** – Move backward along the Z-axis; release to stop.
+- **(D) Key** – Move right along the X-axis; release to stop.
+- **(A) Key** – Move left along the X-axis; release to stop.
+- **(SPACE) Key** – Jump.
+## Game Elements:
+- **Gold Platforms** – Checkpoints that save progress.
+- **Red Barriers** – Avoid touching them.
 
 # Gameplay Screenshots:
 
